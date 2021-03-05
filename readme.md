@@ -57,6 +57,8 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
 - [mkcert](https://github.com/FiloSottile/mkcert) Lokal trusted certificates
 - [Gource](https://gource.io/) The best way to visualize your git history
+- [TextDB](https://textdb.dev/) Easily manageable, web accessible lighweight DB
+- [Supabase](https://supabase.io/) Open Source Firebase
 
 ### Microservices
 
@@ -89,6 +91,8 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 
 - [Web Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [1998 Themes](https://themes.1998.media/)
+- [Vectrejs - Vue Components](https://github.com/vectrejs/vectre)
 
 ### Architecture
 
@@ -97,6 +101,9 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 - [System design primer](https://github.com/donnemartin/system-design-primer)
 - [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [JWT](https://github.com/dwyl/learn-json-web-tokens)
+- [Stargate](https://stargate.io/)
+- [GraphQL Tools](https://www.graphql-tools.com/)
+- [drawSQL](https://drawsql.app/templates) Real world Database schema templates
 
 ### Git
 
