@@ -96,7 +96,7 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 
 ### Architecture
 
-- [API security checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [API security checklist](https://github.com/fy/API-Security-Checklist)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [System design primer](https://github.com/donnemartin/system-design-primer)
 - [Scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -162,6 +162,7 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 
 - [Markdeck](https://github.com/arnehilmann/markdeck) Markdown presentation slides
 - [fusuma](https://github.com/hiroppy/fusuma) Markdown presentation slides #2
+- [shields.io](https://shields.io/) Highly customizable, hosted badge creator
 
 ## Games
 
