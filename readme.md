@@ -87,6 +87,9 @@ Based on [Awesome List by Cludch](https://github.com/Cludch/Awesome)
 - [JS questions](https://github.com/lydiahallie/javascript-questions)
 - [JS concepts](https://github.com/leonardomso/33-js-concepts)
 
+### AI/ ML
+- [Snake RL](https://github.com/sid-sr/q-snake) A visualizer for an AI learning to play snake in the web, with good explanations
+
 ### Frontend / Design
 
 - [Web Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
